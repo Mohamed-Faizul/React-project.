@@ -1,0 +1,36 @@
+.right{
+    background-color: rgb(34, 57, 161);
+    align-items: center;
+    padding: 10px 10px;
+    margin: 30px 40px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+input[type=text]{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.button2{
+    background-color: #020301;
+    margin: 4px 2px;
+    padding: 16px 32px;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.6;
+    cursor: pointer;
+    transition: 0.9s;
+    border-radius: 10px;
+
+}
+.button2:hover{
+    opacity: 1;
+}
